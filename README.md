@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Student Attendance System
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# CodeCrafters
+>>>>>>> a2f0f473f9ec0b760892ff0fbad58593838e78ea
